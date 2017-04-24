@@ -1,0 +1,9 @@
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\bin\Debug\FTP Server.exe.config
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\bin\Debug\FTP Server.exe
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\bin\Debug\FTP Server.pdb
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP Server.csprojResolveAssemblyReference.cache
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP_Server.Form1.resources
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP_Server.Properties.Resources.resources
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP Server.csproj.GenerateResource.Cache
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP Server.exe
+c:\users\tanvir\documents\visual studio 2013\Projects\FTP Server\FTP Server\obj\Debug\FTP Server.pdb
